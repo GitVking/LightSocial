@@ -7,7 +7,7 @@ We are in such a ocean-data world, everybody have to be involved in it to surviv
 That's how LightSocial project start.   
 Join it to make yourself better, to make world better!  
 
-##Main()
+## Main()
 There is nothing here when you start unless uploading your own works first.   
 Evere work has its own readme.md file, which can help computer to get people like you together.  
 Note:
